@@ -103,11 +103,11 @@
     "tailwindcss-animate": "^1.0.7",
     "tailwindcss-radix": "^3.0.5",
     "vite-env-only": "^3.0.3",
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "@faker-js/faker": "^9.0.3"
   },
   "devDependencies": {
     "@epic-web/config": "^1.13.0",
-    "@faker-js/faker": "^9.0.3",
     "@playwright/test": "^1.48.1",
     "@remix-run/dev": "2.13.1",
     "@remix-run/testing": "2.13.1",
